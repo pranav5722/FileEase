@@ -45,4 +45,4 @@ npx expo start
 ```
 ## 📷 Snapshots
 
-!(Images/File%20Operations.jpg)
+![File Operations](Images/File Operations.jpg)
