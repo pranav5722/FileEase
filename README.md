@@ -42,3 +42,7 @@ npm install -g expo-cli
 # 4. Start the development server
 npx expo start
 
+```
+## 📷 Snapshots
+
+!(Images/File%20Operations.jpg)
