@@ -43,6 +43,3 @@ npm install -g expo-cli
 npx expo start
 
 ```
-## 📷 Snapshots
-
-![File Operations](Images/File Operations.jpg)
