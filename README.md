@@ -30,7 +30,7 @@ Follow these steps to get FileEase running on your local development environment
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/PriyanshSingh708/FileEase-AndroidApp.git
+git clone https://github.com/pranav5722/FileEase
 cd FileEase-AndroidApp
 
 # 2. Install dependencies
